@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.pascualbravo.service.impl;
+package com.pascualbravo.citadel.service.impl;
 
 import com.pascualbravo.citadel.connection.ConnectionManager;
 import com.pascualbravo.citadel.iface.RegisterSaleDao;

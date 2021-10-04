@@ -11,11 +11,11 @@ import com.pascualbravo.citadel.models.Bookbinding;
 import com.pascualbravo.citadel.models.Category;
 import com.pascualbravo.citadel.models.Editorial;
 import com.pascualbravo.citadel.models.Trolley;
-import com.pascualbravo.service.impl.BookDaoImpl;
-import com.pascualbravo.service.impl.BookbindingDaoImpl;
-import com.pascualbravo.service.impl.CategoryDaoImpl;
-import com.pascualbravo.service.impl.EditorialDaoImpl;
-import com.pascualbravo.service.impl.TrolleyDaoImpl;
+import com.pascualbravo.citadel.service.impl.BookDaoImpl;
+import com.pascualbravo.citadel.service.impl.BookbindingDaoImpl;
+import com.pascualbravo.citadel.service.impl.CategoryDaoImpl;
+import com.pascualbravo.citadel.service.impl.EditorialDaoImpl;
+import com.pascualbravo.citadel.service.impl.TrolleyDaoImpl;
 import java.awt.TextField;
 import java.sql.SQLException;
 

@@ -8,7 +8,7 @@ package com.pascualbravo.citadel.controllers;
 import com.pascualbravo.citadel.iface.RegisterSaleDao;
 import com.pascualbravo.citadel.models.RegisterSale;
 import com.pascualbravo.citadel.util.TableRegisterSale;
-import com.pascualbravo.service.impl.RegisterSaleDaoImpl;
+import com.pascualbravo.citadel.service.impl.RegisterSaleDaoImpl;
 import java.sql.SQLException;
 import java.util.List;
 import javax.swing.JTable;

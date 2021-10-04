@@ -5,8 +5,8 @@ import com.pascualbravo.citadel.iface.BookDao;
 import com.pascualbravo.citadel.iface.TrolleyDao;
 import com.pascualbravo.citadel.models.Book;
 import com.pascualbravo.citadel.models.Trolley;
-import com.pascualbravo.service.impl.BookDaoImpl;
-import com.pascualbravo.service.impl.TrolleyDaoImpl;
+import com.pascualbravo.citadel.service.impl.BookDaoImpl;
+import com.pascualbravo.citadel.service.impl.TrolleyDaoImpl;
 import java.sql.SQLException;
 
 
